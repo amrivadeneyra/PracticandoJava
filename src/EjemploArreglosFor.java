@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class EjemploArreglosFor {
     public static void main(String[] args) {
@@ -46,7 +47,7 @@ public class EjemploArreglosFor {
         }
 
         for (int k = 0; k < totalnum; k++) {
-            System.out.println("numeros = " + numeros[k]);
+            System.out.println("números = " + numeros[k]);
         }
 
 
